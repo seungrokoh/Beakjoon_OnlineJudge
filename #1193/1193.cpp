@@ -15,8 +15,12 @@ int main(void){
 	
 	a = 1 + (sum - key);
 	b = n - 1 -(sum -key);
-	
-	printf("%d/%d", a, b);
+	if((n-1) % 2 == 0){
+		//Â¦¼öÀÏ ¶§ 
+		printf("%d/%d", b,a);
+	} else {
+		printf("%d/%d", a,b);
+	} 
 	
 	return 0;
 }
