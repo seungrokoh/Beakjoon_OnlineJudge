@@ -5,17 +5,25 @@ using namespace std;
 
 char str[101];
 
+void print(int n);
+
 int main(){
     cin.getline(str, 101);
 
-    for (int i = 0; i < strlen(str);) {
-        if (str[i] == 'a' || str[i] == 'e' || str[i] == 'i' || str[i] == 'o' || str[i] == 'u') {
-            cout << str[i];
-            i = i + 3;
-        } else {
-            cout << str[i];
-            i++;
-        }
-    }
+    print(strlen(str) - 1);
 }
 
+
+void print(int n) {
+    if (n < 0) {
+        return;
+    }
+
+    if (str[n] == 'a' || str[n] == 'e' || str[n] == 'i' || str[n] == 'o' || str[n] == 'u') {
+        print(n-3);
+    } else {
+        print(n-1);
+    }
+
+    cout << str[n];
+}
