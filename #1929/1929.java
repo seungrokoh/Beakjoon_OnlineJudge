@@ -9,6 +9,7 @@ public class Main {
         String[] input = br.readLine().split(" ");
         int start = Integer.parseInt(input[0]);
         int end = Integer.parseInt(input[1]);
+        if (start == 1) start = 2;
         boolean[] check = new boolean[end + 1];
 
         for (int i = 2; i <= end; i++) {
@@ -19,7 +20,7 @@ public class Main {
             }
         }
 
-        for (int i = start; i <= end; i++) {
+        for (int i = start; i <= end; i++) {s
             if (!check[i]) System.out.println(i);
         }
     }
