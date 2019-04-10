@@ -1,6 +1,6 @@
 # __:bulb: [BOJ #1463번] (1로 만들기) 문제 풀이__
 
-### :link: [[소스 코드]](https://github.com/seungrokoh/Beakjoon_OnlineJudge/blob/master/%2310845/1463.java)
+### :link: [[소스 코드]](https://github.com/seungrokoh/Beakjoon_OnlineJudge/blob/master/%231463/1463.java)
 ***
 
 다이나믹 프로그래밍의 기본적인 문제라고 말합니다. 하지만 `다이나믹 프로그래밍`을 접해보지 않은 사람들에게는 너무 어렵게 느껴집니다. 문제를 어떻게 접근하는지에 대해 살펴봅시다.

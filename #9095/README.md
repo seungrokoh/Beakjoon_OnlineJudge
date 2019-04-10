@@ -1,6 +1,6 @@
 # __:bulb: [BOJ #9095번] (1, 2, 3 더하기) 문제 풀이__
 
-### :link: [[소스 코드]](https://github.com/seungrokoh/Beakjoon_OnlineJudge/blob/master/%2310845/9095.java)
+### :link: [[소스 코드]](https://github.com/seungrokoh/Beakjoon_OnlineJudge/blob/master/%239095/9095.java)
 ***
 
 문제에서 친절하게도 n이 4일때 까지의 답을 알려줬습니다. 먼저 문제를 접근하는 방법에 대해서 알아보도록 하죠.  
