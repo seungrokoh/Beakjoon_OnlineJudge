@@ -14,6 +14,7 @@ __아래 리스트는 (2019.04.10) 이후에 푼 문제가 나열 되어 있으�
 :pushpin: 다이나믹 프로그래밍
 * [1463번 (1로 만들기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231463)
 * [9095번 (1, 2, 3 더하기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%239095)
+* [11052번 (카드 구매하기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311052)
 
 :pushpin: 수학
 * [1978번 (소수 찾기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231978)
