@@ -18,3 +18,6 @@ __아래 리스트는 (2019.04.10) 이후에 푼 문제가 나열 되어 있으�
 
 :pushpin: 수학
 * [1978번 (소수 찾기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231978)
+
+:pushpin: 구현
+* [1978번 (만취한 상범)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%236359)
