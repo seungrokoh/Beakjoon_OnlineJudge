@@ -21,3 +21,4 @@ __아래 리스트는 (2019.04.10) 이후에 푼 문제가 나열 되어 있으�
 
 :pushpin: 구현
 * [1978번 (만취한 상범)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%236359)
+* [10817번 (세수)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2310817)
