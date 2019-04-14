@@ -8,13 +8,14 @@
 
 
 __아래 리스트는 (2019.04.10) 이후에 푼 문제가 나열 되어 있으며 `풀이`도 함께 등록되어 있습니다.__
-기존의 방식~~(TIL에 풀이 과정 작성)~~은 풀이과정을 찾기가 힘들어 한 곳에 정리해두기 위해 앞으로의 모든 풀이과정은 소스코드와 함께 기록 됩니다. 이미 저장된 소스코드의 풀이 방식은 새로 작성해서 계속해서 아래 리스트에 업데이트 될 예정입니다.~~(언제 인지는..)~~
+기존의 방식 ~~(TIL에 풀이 과정 작성)~~ 은 풀이과정을 찾기가 힘들어 한 곳에 정리해두기 위해 앞으로의 모든 풀이과정은 소스코드와 함께 기록 됩니다. 이미 저장된 소스코드의 풀이 방식은 새로 작성해서 계속해서 아래 리스트에 업데이트 될 예정입니다.~~(언제 인지는..)~~
 
 ### __:file_folder: Category__
 :pushpin: 다이나믹 프로그래밍
 * [1463번 (1로 만들기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231463)
 * [9095번 (1, 2, 3 더하기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%239095)
 * [11052번 (카드 구매하기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311052)
+* [2163번 (초콜릿 자르기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%232163)
 
 :pushpin: 수학
 * [1978번 (소수 찾기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231978)
