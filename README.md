@@ -17,6 +17,7 @@ __아래 리스트는 (2019.04.10) 이후에 푼 문제가 나열 되어 있으�
 * [11052번 (카드 구매하기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311052)
 * [2163번 (초콜릿 자르기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%232163)
 * [11399번 (ATM)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311399)
+* [14501번 (퇴사)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2314501)
 
 :pushpin: 수학
 * [1978번 (소수 찾기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231978)
