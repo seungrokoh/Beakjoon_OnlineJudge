@@ -11,7 +11,7 @@ __아래 리스트는 (2019.04.10) 이후에 푼 문제가 나열 되어 있으�
 기존의 방식 ~~(TIL에 풀이 과정 작성)~~ 은 풀이과정을 찾기가 힘들어 한 곳에 정리해두기 위해 앞으로의 모든 풀이과정은 소스코드와 함께 기록 됩니다. 이미 저장된 소스코드의 풀이 방식은 새로 작성해서 계속해서 아래 리스트에 업데이트 될 예정입니다.~~(언제 인지는..)~~
 
 ### __:file_folder: Category__
-:pushpin: 다이나믹 프로그래밍
+__:pushpin: 다이나믹 프로그래밍__
 * [1463번 (1로 만들기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231463)
 * [9095번 (1, 2, 3 더하기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%239095)
 * [11052번 (카드 구매하기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311052)
@@ -19,15 +19,16 @@ __아래 리스트는 (2019.04.10) 이후에 푼 문제가 나열 되어 있으�
 * [11399번 (ATM)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311399)
 * [14501번 (퇴사)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2314501)
 
-:pushpin: 수학
+__:pushpin: 수학__
 * [1978번 (소수 찾기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231978)
 
-:pushpin: 구현
+__:pushpin: 구현__
 * [1978번 (만취한 상범)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%236359)
 * [10817번 (세수)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2310817)
+* [11945번 (뜨거운 붕어빵)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311945)
 
-:pushpin: 그리디 알고리즘
+__:pushpin: 그리디 알고리즘__
 * [11047번 (동전 0)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311047)
 
-:pushpin: BFS
+__:pushpin: BFS__
 * [4963번 (섬의 개수)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%234963)
