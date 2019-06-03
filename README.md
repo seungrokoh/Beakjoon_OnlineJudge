@@ -32,5 +32,6 @@ __:pushpin: 그리디 알고리즘__
 * [2875번 (대회 or 인턴)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%232875)
 * [5585번 (거스름돈)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%235585)
 * [1541번 (잃어버린 괄호)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231541)
+* [1049번 (기타줄)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231049)
 __:pushpin: BFS__
 * [4963번 (섬의 개수)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%234963)
