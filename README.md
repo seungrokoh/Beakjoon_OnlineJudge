@@ -33,6 +33,7 @@ __:pushpin: 그리디 알고리즘__
 * [5585번 (거스름돈)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%235585)
 * [1541번 (잃어버린 괄호)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231541)
 * [1049번 (기타줄)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231049)
+* [10610번 (30)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2310610)
 
 
 __:pushpin: BFS__
