@@ -34,7 +34,7 @@ __:pushpin: 그리디 알고리즘__
 * [1541번 (잃어버린 괄호)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231541)
 * [1049번 (기타줄)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231049)
 * [10610번 (30)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2310610)
-
+* [1120번 (문자열)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231120)
 
 __:pushpin: BFS__
 * [4963번 (섬의 개수)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%234963)
