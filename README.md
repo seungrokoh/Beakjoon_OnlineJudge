@@ -36,6 +36,7 @@ __:pushpin: 그리디 알고리즘__
 * [10610번 (30)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2310610)
 * [1120번 (문자열)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231120)
 * [1931번 (회의실 배정)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231931)
+* [1946번 (신입 사원)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231946)
 
 __:pushpin: BFS__
 * [4963번 (섬의 개수)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%234963)
