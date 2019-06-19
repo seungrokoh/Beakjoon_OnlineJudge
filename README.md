@@ -26,6 +26,7 @@ __:pushpin: 구현__
 * [1978번 (만취한 상범)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%236359)
 * [10817번 (세수)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2310817)
 * [11945번 (뜨거운 붕어빵)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311945)
+* [1205번 (등수 구하기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231205)
 
 __:pushpin: 그리디 알고리즘__
 * [11047번 (동전 0)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311047)
