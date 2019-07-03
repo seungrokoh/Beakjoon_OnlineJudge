@@ -49,3 +49,6 @@ __:pushpin: 그리디 알고리즘__
 __:pushpin: BFS__
 * [4963번 (섬의 개수)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%234963)
 * [1976번 (여행 가자)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231976)
+
+__:pushpin: DFS__
+* [1759번 (암호 만들기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231759)
