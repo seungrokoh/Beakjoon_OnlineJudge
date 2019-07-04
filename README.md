@@ -45,6 +45,7 @@ __:pushpin: 그리디 알고리즘__
 * [1946번 (신입 사원)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231946)
 * [1789번 (수들의 합)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231789)
 * [1080번 (행렬)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231080)
+* [1138번 (한 줄로 서기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231138)
 
 __:pushpin: BFS__
 * [4963번 (섬의 개수)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%234963)
