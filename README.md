@@ -32,6 +32,7 @@ __:pushpin: 구현__
 * [1205번 (등수 구하기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231205)
 * [11944번 (NN)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311944)
 * [2965번 (캥거루 세마리)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%232965)
+* [2960번 (에라토스테네스의 체)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%232960)
 
 __:pushpin: 그리디 알고리즘__
 * [11047번 (동전 0)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311047)
