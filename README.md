@@ -35,6 +35,7 @@ __:pushpin: 구현__
 * [2960번 (에라토스테네스의 체)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%232960)
 * [5532번 (방학 숙제)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%235532)
 * [12790번 (Mini Fantasy War)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2312790)
+* [2935번 (소음)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%232935)
 
 __:pushpin: 그리디 알고리즘__
 * [11047번 (동전 0)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311047)
