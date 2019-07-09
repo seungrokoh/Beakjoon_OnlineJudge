@@ -24,6 +24,7 @@ __:pushpin: 수학__
 * [2003번 (수들의 합 2)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%232003)
 * [4673번 (셀프 넘버)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%234673)
 * [2588번 (곱셈)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%232588)
+* [2576번 (홀수)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%232576)
 
 __:pushpin: 구현__
 * [1978번 (만취한 상범)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%236359)
