@@ -39,6 +39,7 @@ __:pushpin: 구현__
 * [2935번 (소음)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%232935)
 * [11728번 (배열 합치기)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311728)
 * [1436번 (영화감독 숌)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%231436)
+* [13300번 (방 배정)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2313300)
 
 __:pushpin: 그리디 알고리즘__
 * [11047번 (동전 0)](https://github.com/seungrokoh/Beakjoon_OnlineJudge/tree/master/%2311047)
