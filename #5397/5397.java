@@ -28,11 +28,11 @@ public class Main {
                         leftQueue.add(c);
                 }
             }
-
             while(!leftQueue.isEmpty()) result.append(leftQueue.pollFirst());
             while(!rightQueue.isEmpty()) result.append(rightQueue.pollFirst());
             result.append("\n");
         }
+
         System.out.println(result);
     }
 }
